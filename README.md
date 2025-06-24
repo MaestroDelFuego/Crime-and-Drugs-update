@@ -8,6 +8,5 @@ This update introduces a comprehensive drug and crime system, adding immersive n
 - Realistic drug processing and selling workflows
 - Money laundering system to legitimize criminal profits
 - New criminal activities and economic dynamics for roleplay
-- Enhanced immersion with drug-related missions and risks
 
 This update aims to deepen the criminal economy experience and create new opportunities for players interested in the darker side of the game.
